@@ -7,7 +7,7 @@ Add 'ensure wk_wrs' into your server.cfg
 
 # Photo
 
-https://cdn.discordapp.com/attachments/669009835307565067/681985040300769296/8334fd21992165e2c9e5b9fc91a7a147.png
+https://gyazo.com/ef0e3b29cadd5b49f9f5452ac171a547
 
 # Usage In Game
 
