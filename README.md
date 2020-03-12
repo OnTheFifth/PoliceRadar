@@ -1,5 +1,3 @@
-# Chat
-FiveM Chat System | Works off ESX Framework
 
 # Installation
 
