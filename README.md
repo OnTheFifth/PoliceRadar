@@ -13,5 +13,9 @@ This is a police only radar will work with only police vehicles.
 For police I registered it as a command. Do /Radar for police and it will pop up with a menu
 I made it so it shows the plate where you can see on the top and bottom of the radar.
 
-# Any Issues Or Help 
-https://discord.gg/gmAcpDU
+
+# Personal Discord
+
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
